@@ -23,13 +23,22 @@
 ## DATA ANALYSIS
 ### 1.	Excel
 #### a.	Analyse customer data using pivotable to find subscription patterns.
-#### b.	Calculate the average subscription duration and identify the most popular subscription types  
+#### b.	Calculate the average subscription duration and identify the most popular subscription types
+### ![EXCEL PROJECT2B](https://github.com/user-attachments/assets/fac6a758-4677-4fbf-afa9-e71e43f939cd)
 ### 2.	SQL
 #### a.	Retrieve the total number of customers from each region.
+### ![PROJECT 2A](https://github.com/user-attachments/assets/bb41ed03-9192-4ec3-a534-701f9420ad9f)
 #### b.	Find the most popular subscription type by the number of customers.
+### ![PROJECT 2B](https://github.com/user-attachments/assets/7c58011a-0490-4130-918e-406a28168fd5)
 #### c.	Find customers who cancel their subscription withing six months.
+### ![PROJECT 2CC](https://github.com/user-attachments/assets/6f28b68a-6a43-4ab1-9e39-6bdef9067c1e)
 #### d.	Calculate the average subscription duration for all customers.
+### ![PROJECT 2D](https://github.com/user-attachments/assets/d59c11ef-a3ff-4b47-837a-0054fb9ca912)
 #### e.	Find customers with subscriptions longer than twelve months.
+#### ![PROJECT 2ESQL](https://github.com/user-attachments/assets/77e2ff6d-75a3-4381-ad0f-c24dd57e1d3c)
 #### f.	Calculate total revenue by subscription type.
+### ![PROJECT 2F](https://github.com/user-attachments/assets/c73f3a68-f6a2-4329-a077-1c8e4de0fa8d)
 ## DATA VISUALIZATION
 ### 1.	Create any other interesting report.
+### ![PROJECT 2C (2)](https://github.com/user-attachments/assets/d5d8baf6-72d8-4882-b0b7-4767bd09c023)
+
