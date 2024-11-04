@@ -23,6 +23,8 @@
 ## DATA ANALYSIS
 ### 1.	Excel
 #### a.	Analyse customer data using pivotable to find subscription patterns.
+#### ![SUBSCRIPTION PATERN2 (2)](https://github.com/user-attachments/assets/3f2c477c-2502-44c6-a828-f2ba19d3464f)
+#### ![SUBSCRIPTION PATERNS1 (2)](https://github.com/user-attachments/assets/0149fcf1-bb34-4b8b-87ca-4b67a53f0f3c)
 #### b.	Calculate the average subscription duration and identify the most popular subscription types
 ### ![EXCEL PROJECT2B](https://github.com/user-attachments/assets/fac6a758-4677-4fbf-afa9-e71e43f939cd)
 ### 2.	SQL
