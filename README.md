@@ -44,5 +44,6 @@
 ### 1.	Create any other interesting report.
 ### ![PROJECT 2C (2)](https://github.com/user-attachments/assets/d5d8baf6-72d8-4882-b0b7-4767bd09c023)
 ## POWER BI DASHBOARD
-### ![IMG-20241104-WA0001](https://github.com/user-attachments/assets/2e6147a6-03dc-4911-a11b-da308183b539)
+### ![POWER BI PRO2](https://github.com/user-attachments/assets/c1d9f156-dbac-4beb-b9c1-a37fea8f873c)
+
 
